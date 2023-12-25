@@ -1,0 +1,18 @@
+body {
+    background-color: #6F0AAA;
+}
+header {
+    background-color: #9D3ED5;
+
+}
+main {
+    background-color: #5E2580;
+}
+footer img {
+    width: 500px;
+    height: 450px;
+}
+header img {
+    width: 100px;
+    height: 90px;
+}
